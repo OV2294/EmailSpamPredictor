@@ -1,0 +1,202 @@
+[
+    {
+        "message": "Hey, are you coming to college today?",
+        "label": "ham"
+    },
+    {
+        "message": "Can you call me when you reach home?",
+        "label": "ham"
+    },
+    {
+        "message": "Let's meet for lunch at the cafeteria around 1 PM.",
+        "label": "ham"
+    },
+    {
+        "message": "Don't forget to submit the assignment before midnight.",
+        "label": "ham"
+    },
+    {
+        "message": "Are we still meeting for the project discussion tomorrow?",
+        "label": "ham"
+    },
+    {
+        "message": "I left my notebook on your desk, can you bring it?",
+        "label": "ham"
+    },
+    {
+        "message": "Thanks for sending the lecture notes, really helpful!",
+        "label": "ham"
+    },
+    {
+        "message": "What time is the machine learning lecture today?",
+        "label": "ham"
+    },
+    {
+        "message": "I will be late for class, please save a seat for me.",
+        "label": "ham"
+    },
+    {
+        "message": "Happy birthday! Hope you have a wonderful day ahead.",
+        "label": "ham"
+    },
+    {
+        "message": "Can you share the link for today's Zoom meeting?",
+        "label": "ham"
+    },
+    {
+        "message": "Please check your email, I sent you the project code.",
+        "label": "ham"
+    },
+    {
+        "message": "Let me know when you are free to study for exams.",
+        "label": "ham"
+    },
+    {
+        "message": "The teacher postponed the submission deadline to Friday.",
+        "label": "ham"
+    },
+    {
+        "message": "Hey, did you buy the textbook for Data Science?",
+        "label": "ham"
+    },
+    {
+        "message": "I am stuck in traffic, will reach in 15 minutes.",
+        "label": "ham"
+    },
+    {
+        "message": "Good morning! Have a great day at university.",
+        "label": "ham"
+    },
+    {
+        "message": "Where are you? We are waiting near the library.",
+        "label": "ham"
+    },
+    {
+        "message": "Can you lend me your pen for the exam?",
+        "label": "ham"
+    },
+    {
+        "message": "See you tomorrow at the lab!",
+        "label": "ham"
+    },
+    {
+        "message": "Call me back when you get a chance.",
+        "label": "ham"
+    },
+    {
+        "message": "Let's work on the MLOps assignment together tonight.",
+        "label": "ham"
+    },
+    {
+        "message": "Did you watch the sports match yesterday?",
+        "label": "ham"
+    },
+    {
+        "message": "I will bring the snacks for our study session.",
+        "label": "ham"
+    },
+    {
+        "message": "Please remind me to submit the library book tomorrow.",
+        "label": "ham"
+    },
+    {
+        "message": "Congratulations! You won a free prize!",
+        "label": "spam"
+    },
+    {
+        "message": "You have won 1000 dollars. Claim now!",
+        "label": "spam"
+    },
+    {
+        "message": "Urgent! Your mobile number won $500,000 cash prize. Call now to claim!",
+        "label": "spam"
+    },
+    {
+        "message": "Get a free iPhone today! Click the link to register now.",
+        "label": "spam"
+    },
+    {
+        "message": "Win a brand new car today! Call 1800-SPAM-WIN to claim your reward.",
+        "label": "spam"
+    },
+    {
+        "message": "Exclusive deal! Get 90% discount on top brand shoes. Offer ends soon!",
+        "label": "spam"
+    },
+    {
+        "message": "Congratulations! You are selected for a guaranteed cash bonus.",
+        "label": "spam"
+    },
+    {
+        "message": "Claim your free gift card worth $200 now! Visit www.freeprize.com",
+        "label": "spam"
+    },
+    {
+        "message": "Limited time offer! Get cheap loans at 0% interest rate today!",
+        "label": "spam"
+    },
+    {
+        "message": "You have been awarded a free holiday trip to Hawaii! Reply YES to claim.",
+        "label": "spam"
+    },
+    {
+        "message": "Earn $500 daily from home! No experience required. Call now!",
+        "label": "spam"
+    },
+    {
+        "message": "Congratulations winner! Reply to this message to claim your reward.",
+        "label": "spam"
+    },
+    {
+        "message": "Free lottery ticket inside! Text WIN to 55555 now!",
+        "label": "spam"
+    },
+    {
+        "message": "Urgent action required! Update your banking details to win $10,000.",
+        "label": "spam"
+    },
+    {
+        "message": "Cash prize alert! You won $5000 in our monthly lucky draw!",
+        "label": "spam"
+    },
+    {
+        "message": "Get instant approval for credit card with zero annual fee. Click here!",
+        "label": "spam"
+    },
+    {
+        "message": "Free entry in $1,000,000 jackpot draw! Text SPAM to 88888",
+        "label": "spam"
+    },
+    {
+        "message": "Congratulations! Your entry won 1st prize in our weekly raffle.",
+        "label": "spam"
+    },
+    {
+        "message": "Special discount code: SPAM50. Save 50% on all orders today!",
+        "label": "spam"
+    },
+    {
+        "message": "Final notice: Claim your unclaimed cash prize of $750 before midnight.",
+        "label": "spam"
+    },
+    {
+        "message": "You are a winner! Text CLAIM to 77777 to get your voucher.",
+        "label": "spam"
+    },
+    {
+        "message": "Free trial offer! Upgrade your subscription now for zero cost.",
+        "label": "spam"
+    },
+    {
+        "message": "Urgent! Claim your free bonus prize before it expires today!",
+        "label": "spam"
+    },
+    {
+        "message": "Win $1000 cash instantly by answering 1 simple question. Click now!",
+        "label": "spam"
+    },
+    {
+        "message": "Congratulations! You have received a $500 shopping voucher.",
+        "label": "spam"
+    }
+]

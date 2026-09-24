@@ -1,0 +1,20 @@
+[
+    {
+        "message": "string",
+        "prediction": "ham",
+        "probability": 0.5,
+        "timestamp": "2026-09-24 14:21:46"
+    },
+    {
+        "message": "Can you call me when you reach home?",
+        "prediction": "ham",
+        "probability": 0.7908,
+        "timestamp": "2026-09-24 14:22:15"
+    },
+    {
+        "message": "Win a brand new car today! Call 1800-SPAM-WIN to claim your reward.",
+        "prediction": "spam",
+        "probability": 0.7857,
+        "timestamp": "2026-09-24 14:22:32"
+    }
+]

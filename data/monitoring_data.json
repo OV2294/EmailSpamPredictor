@@ -1,0 +1,42 @@
+[
+    {
+        "message": "You won a free lottery prize! Call now to claim.",
+        "actual_label": "spam"
+    },
+    {
+        "message": "Can you send me the assignment code before evening?",
+        "actual_label": "ham"
+    },
+    {
+        "message": "Congratulations! You have won $500 cash prize.",
+        "actual_label": "spam"
+    },
+    {
+        "message": "Let's meet at the library to finish our project.",
+        "actual_label": "ham"
+    },
+    {
+        "message": "Claim your free gift card now by clicking the link.",
+        "actual_label": "spam"
+    },
+    {
+        "message": "Are you coming to the MLOps lecture today?",
+        "actual_label": "ham"
+    },
+    {
+        "message": "Exclusive offer! Get 80% discount on shopping.",
+        "actual_label": "spam"
+    },
+    {
+        "message": "Please call me when you reach home.",
+        "actual_label": "ham"
+    },
+    {
+        "message": "Win a brand new car today! Call 1800-FREE-CAR.",
+        "actual_label": "spam"
+    },
+    {
+        "message": "Thanks for sharing the notes for the exam.",
+        "actual_label": "ham"
+    }
+]
